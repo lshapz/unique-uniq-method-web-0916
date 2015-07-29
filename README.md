@@ -1,8 +1,4 @@
----
-tags: todo
-languages: ruby
-resources: 1
----
+
 # Unique Uniq Method
 
 ## Objectives
